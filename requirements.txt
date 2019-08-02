@@ -1,5 +1,5 @@
 simplejson==3.16.0
-requests>=2.20.0
+requests==2.20.0
 requests-unixsocket==0.1.5
 bs4==0.0.1
 beautifulsoup4==4.8.0
